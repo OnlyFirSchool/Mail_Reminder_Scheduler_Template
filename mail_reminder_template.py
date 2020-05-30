@@ -76,7 +76,7 @@ def send_email() -> None:
     msg.set_content(the_msg_body)
 
     # # Image or doc attach template
-    # files = ['CS161SoInspirational.pdf']
+    # files = ['SoInspirational.pdf']
     # for file in files:
     #     with open(file, 'rb') as f:
     #         file_data = f.read()
