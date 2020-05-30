@@ -9,8 +9,7 @@ import imghdr
 # Global constants
 # Match statelist elements w/ critical times
 STATES_LIST = ['sample_reminder_1', 'sample_reminder_2']
-
-CRITICAL_TIMES = ['2020-05-29 05:22', '2020-07-04 00:01',]
+CRITICAL_TIMES = ['2020-05-29 05:22', '2020-07-04 00:01']
 current_state = 'STATIONARY'
 
 
